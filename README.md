@@ -21,6 +21,10 @@ The browser review does not modify, execute, or upload a workflow. It is not a s
 
 The free reviewer also links to an optional **9 USDC** local kit with offline command-line review, batch reports, and handoff templates. The paid kit is separate from the public examples.
 
+## GitHub Action and scoped reviews
+
+[ActionKit workflow review action](https://github.com/JVVK-AI/actionkit-workflow-review-action) runs the same narrow prompts in GitHub Actions and writes a Markdown report to the job summary. For a public workflow that needs a bounded, separately scoped review or handoff, use the [workflow-review request form](https://github.com/JVVK-AI/actionkit-workflow-review-action/issues/new?template=workflow-review-request.yml). Scope, acceptance criteria, and price are agreed before work starts; do not share credentials, private repository links, or confidential code.
+
 
 
 ## Spreadsheet automation template
