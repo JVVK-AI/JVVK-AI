@@ -25,4 +25,4 @@ The free reviewer also links to an optional **9 USDC** local kit with offline co
 
 ## Spreadsheet automation template
 
-[Daily Spreadsheet Digest](https://github.com/JVVK-AI/daily-spreadsheet-digest) is a Google Apps Script template for one daily email summary from a selected Google Sheet tab. The owner configures the recipients and schedule in their own Google account; the repository contains only synthetic sample data.
+[Daily Spreadsheet Digest](https://github.com/JVVK-AI/daily-spreadsheet-digest) is a Google Apps Script template for one daily email summary from a selected Google Sheet tab. The owner configures the recipients and schedule in their own Google account; the repository contains only synthetic sample data. Teams that need a different source, schedule, approval step, or delivery channel can [request a separately scoped setup](https://github.com/JVVK-AI/daily-spreadsheet-digest/issues/new/choose) without sharing credentials or private documents.
