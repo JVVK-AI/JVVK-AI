@@ -1,16 +1,15 @@
-## Hi there 👋
+# Developer tools and workflow-review resources
 
-<!--
-**JVVK-AI/JVVK-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ActionKit: free GitHub Actions review
 
-Here are some ideas to get you started:
+[Open the free browser reviewer](https://actionkit-workflow-review.jvvkmusic.chatgpt.site) to inspect a workflow before you merge it. It highlights human-review prompts around permissions, action references, timeout limits, checkout scope, concurrency, and installation commands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The browser review does not modify, execute, or upload a workflow. It is not a security audit or deployment approval.
+
+## Free examples
+
+[ActionKit workflow review examples](https://github.com/JVVK-AI/actionkit-workflow-review-examples) contains one deliberately synthetic GitHub Actions workflow for practice, along with the review boundaries.
+
+## Optional local kit
+
+The free reviewer also links to an optional **9 USDC** local kit with offline command-line review, batch reports, and handoff templates. The paid kit is separate from the public examples.
